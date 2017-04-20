@@ -10,7 +10,7 @@
  */
 
 namespace SebastianBergmann\Money;
-
+/*HEllo Change*/
 /**
  * Value Object that represents a monetary value
  * (using a currency's smallest unit).
