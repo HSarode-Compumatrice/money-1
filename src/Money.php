@@ -15,7 +15,7 @@ namespace SebastianBergmann\Money;
  * Value Object that represents a monetary value
  * (using a currency's smallest unit).
  *
- * @package    Money
+ * @package    
  * @author     Sebastian Bergmann <sebastian@phpunit.de>
  * @copyright  Sebastian Bergmann <sebastian@phpunit.de>
  * @license    http://www.opensource.org/licenses/BSD-3-Clause  The BSD 3-Clause License
@@ -24,7 +24,7 @@ namespace SebastianBergmann\Money;
  * @see        http://martinfowler.com/eaaCatalog/money.html
  */
 //Hellofhfdjbkjfbdkjfbjdbfjkdebfkjdbkjfbdkjfbdkjbjf1234
-class Money implements \JsonSerializable
+class Money1234 implements \JsonSerializable
 {
     /**
      * @var integer
